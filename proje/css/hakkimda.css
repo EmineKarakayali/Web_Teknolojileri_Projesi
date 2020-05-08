@@ -1,0 +1,345 @@
+body{
+	background-color: #bdc3c7;
+}
+
+
+@media only screen and (max-width: 960px)
+{
+	#genel{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+.resim{
+    margin-left: 500px;
+	padding :0;
+	max-width: 100%;
+	max-height: 100%;
+	
+}
+.ust{
+	width: 100%;
+	height: 100%;
+	background-color:  #8a3648;
+	border: 1px solid black;
+}
+.ust p {
+	color:white;
+	
+	font: bold 30px verdana;
+}
+.icerik{
+	
+	height: auto;
+
+}
+.icerik-sol{
+	
+	min-height: 550px;
+	background-color: #718093;
+	float: left;
+
+}
+.icerik-sag{
+
+	
+	min-height: 700px;
+	background-color: #718093;
+	float: left;
+	
+}
+.alt{
+	margin-top: 20px;
+	width: 1200px;
+	height: 60px;
+	background-color:#8a3648;
+	float: left;
+
+}
+.menu{
+	margin: auto;
+	height: 110px;
+	background-color: #353b48;
+	margin-bottom: 20px;
+}
+.menu ul li {
+	 margin-top: 2px;
+	 margin-left: 25px;
+	 padding:15px;
+	 list-style: none;
+	 float: left;
+	 border: 1px solid #ddd;
+	 background-color:#eee9e9;   
+	 border: 1px solid black;
+}
+.menu ul li a{
+
+	text-decoration: none;
+	font: bold 13px verdana;
+	color:black;
+}
+.menu ul li:hover{
+     background-color: #3498db;
+}
+.resmim-img{
+	padding: 0;
+	min-width: 100%;
+	max-height: 100%;
+	border-radius: 300px 300px 300px 300px;
+	margin-left: 50px;
+	
+}
+.resmim-div{
+	margin-top: 10px;
+	width: 200px;
+	height: 300px;
+	float: left;
+
+}
+.bilgilerim{
+	margin-top: 20px;
+	float: left;
+	margin-left: 3px;
+}
+.bilgilerim p {
+	margin-top: 30px;
+	font:bold 18px arial; 
+	color: #8a3648;
+}
+
+.gmail-icon{
+	margin:20px 0 0 10px;
+	width: 80px;
+	height: 80px;
+
+}
+.linkedin-icon{
+	border-radius: 20px 20px 20px 20px;
+	margin:20px 0 0 60px;
+	width: 75px;
+	height: 75px;
+}
+.github-icon{
+	margin:20px 0 0 105px;
+	width: 80px;
+	height: 80px;
+}
+.icerik-sag p{
+	margin-left: 5px;
+	font:bold 15px arial; 
+	color: #dcdde1;
+}
+.icerik-sag{
+	color:#8a3648
+}
+.valeybol-div{
+	float: left;
+	margin-left: 5px;
+	
+	height: 80px;
+	margin-bottom: 5px;
+}
+.ilgialani-icon{
+	float left;
+	
+	height: 70px;
+
+}
+.atis-div{
+	float: left;
+	margin-left: 5px;
+	
+	height: 80px;
+	margin-bottom: 5px;
+}
+
+.puzzle-div{
+	float: left;
+	margin-left: 5px;
+	
+	height: 80px;
+	margin-bottom: 5px;
+}
+
+.yazi{
+	margin-left:5px; 
+	float: left;
+	font:bold 16px arial;
+	color: #dcdde1;
+	
+}
+
+
+}
+
+@media only screen and (min-width: 959px)
+{
+
+#genel{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+}
+.resim{
+    margin-left: 500px;
+	padding :0;
+	max-width: 100%;
+	max-height: 100%;
+	
+}
+.ust{
+	width: 100%;
+	height: 100%;
+	background-color:  #8a3648;
+	border: 1px solid black;
+}
+.ust p {
+	color:white;
+	margin-left: 490px;
+	font: bold 30px verdana;
+}
+.icerik{
+	width:1200px;
+	height: auto;
+
+}
+.icerik-sol{
+	width: 310px;
+	min-height: 700px;
+	background-color: #718093;
+	float: left;
+
+}
+.icerik-sag{
+
+	width: 850px;
+	min-height: 700px;
+	background-color: #718093;
+	float: left;
+	margin-left: 40px;
+}
+.alt{
+	margin-top: 20px;
+	width: 1200px;
+	height: 60px;
+	background-color:#8a3648;
+	float: left;
+
+}
+.menu{
+	margin: auto;
+	width: 1200px;
+	height: 55px;
+	background-color: #353b48;
+	margin-bottom: 20px;
+}
+.menu ul li {
+	 margin-top: 2px;
+	 margin-left: 25px;
+	 padding:15px;
+	 list-style: none;
+	 float: left;
+	 border: 1px solid #ddd;
+	 background-color:#eee9e9;   
+	 border: 1px solid black;
+}
+.menu ul li a{
+
+	text-decoration: none;
+	font: bold 13px verdana;
+	color:black;
+}
+.menu ul li:hover{
+     background-color: #3498db;
+}
+.resmim-img{
+	padding: 0;
+	min-width: 100%;
+	max-height: 100%;
+	border-radius: 300px 300px 300px 300px;
+	margin-left: 50px;
+	
+}
+.resmim-div{
+	margin-top: 10px;
+	width: 200px;
+	height: 300px;
+	float: left;
+
+}
+.bilgilerim{
+	margin-top: 20px;
+	float: left;
+	margin-left: 3px;
+}
+.bilgilerim p {
+	margin-top: 30px;
+	font:bold 18px arial; 
+	color: #8a3648;
+}
+
+.gmail-icon{
+	margin:20px 0 0 10px;
+	width: 80px;
+	height: 80px;
+
+}
+.linkedin-icon{
+	border-radius: 20px 20px 20px 20px;
+	margin:20px 0 0 60px;
+	width: 75px;
+	height: 75px;
+}
+.github-icon{
+	margin:20px 0 0 105px;
+	width: 80px;
+	height: 80px;
+}
+.icerik-sag p{
+	margin-left: 5px;
+	font:bold 15px arial; 
+	color: #dcdde1;
+}
+.icerik-sag{
+	color:#8a3648
+}
+.valeybol-div{
+	float: left;
+	margin-left: 5px;
+	width: 60px;
+	height: 80px;
+	margin-bottom: 5px;
+}
+.ilgialani-icon{
+	float left;
+	width: 70px;
+	height: 70px;
+
+}
+.atis-div{
+	float: left;
+	margin-left: 5px;
+	width: 60px;
+	height: 80px;
+	margin-bottom: 5px;
+}
+
+.puzzle-div{
+	float: left;
+	margin-left: 5px;
+	width: 60px;
+	height: 80px;
+	margin-bottom: 5px;
+}
+
+
+
+.yazi{
+	margin-left:5px; 
+	float: left;
+	font:bold 16px arial;
+	color: #dcdde1;
+	
+}
+
+}

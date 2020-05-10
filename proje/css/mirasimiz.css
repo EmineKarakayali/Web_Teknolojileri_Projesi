@@ -1,26 +1,21 @@
-body{
-	background-image: url("../img/arkaplan.jpg");
+body
+{
+    font-size: 16px;
 }
-.resim{
-	
-	border: 2px solid black;
-	float: left;
-	margin-bottom: 28px;
+.baslik
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    padding: 10px;
+    background-color: rgb(238, 174, 202);
+    color:black;
+    border: 5px solid black;
 }
-.tarihcesi p{
-	margin-bottom: 25px;
-    float: left;
-}
-h1{
-	text-align: center;
-	color: #6D4C41;
+p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 h2{
-	text-align: center;
-	color: #6D4C41;
-	margin-bottom: 50px;
-}
-p{
-	border: 2px solid black;
-	font:bold 15px monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

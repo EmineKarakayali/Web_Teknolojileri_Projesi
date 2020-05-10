@@ -1,0 +1,32 @@
+td
+{
+    font-family: monospace !important;
+    font-size: 24px;
+    border: 2px solid;
+}
+th
+{
+    font-family: monospace !important;
+    font-size: 28px;
+    border: 2px solid;
+    color: black;
+    font-weight: bold;
+}
+.baslik
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    padding: 10px;
+    background-color: rgb(238, 174, 202);
+    color:black;
+    border: 5px solid black;
+}
+.tabloisim
+{
+    font-size: 35px;
+    color: white;
+    font-family: serif;
+    font-weight: bold;
+    padding: 10px;
+    background-color:black;
+}
